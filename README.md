@@ -4,6 +4,7 @@ Step 2: In Linux instance install Jenkins and GIT.
 Step 3: setup maven
 Step 4: Install plugins: git, maven on jenkins
 Step 5: install maven:
+copy maven url from below link 
 https://maven.apache.org/download.cgi
 #sudo su 
 #cd /opt 
